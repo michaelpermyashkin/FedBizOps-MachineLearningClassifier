@@ -1,0 +1,11 @@
+C:\Users\Michael Permyashkin\source\repos\FBO-FTP-Data-Classifer\cinteotnlpinitiative\JSON-RFP-Classifier\bin\Debug\netcoreapp2.2\FBO-FTP-Data-Classifier.deps.json
+C:\Users\Michael Permyashkin\source\repos\FBO-FTP-Data-Classifer\cinteotnlpinitiative\JSON-RFP-Classifier\bin\Debug\netcoreapp2.2\FBO-FTP-Data-Classifier.runtimeconfig.json
+C:\Users\Michael Permyashkin\source\repos\FBO-FTP-Data-Classifer\cinteotnlpinitiative\JSON-RFP-Classifier\bin\Debug\netcoreapp2.2\FBO-FTP-Data-Classifier.runtimeconfig.dev.json
+C:\Users\Michael Permyashkin\source\repos\FBO-FTP-Data-Classifer\cinteotnlpinitiative\JSON-RFP-Classifier\bin\Debug\netcoreapp2.2\FBO-FTP-Data-Classifier.dll
+C:\Users\Michael Permyashkin\source\repos\FBO-FTP-Data-Classifer\cinteotnlpinitiative\JSON-RFP-Classifier\bin\Debug\netcoreapp2.2\FBO-FTP-Data-Classifier.pdb
+C:\Users\Michael Permyashkin\source\repos\FBO-FTP-Data-Classifer\cinteotnlpinitiative\JSON-RFP-Classifier\obj\Debug\netcoreapp2.2\FBO-FTP-Data-Classifier.csprojAssemblyReference.cache
+C:\Users\Michael Permyashkin\source\repos\FBO-FTP-Data-Classifer\cinteotnlpinitiative\JSON-RFP-Classifier\obj\Debug\netcoreapp2.2\FBO-FTP-Data-Classifier.AssemblyInfoInputs.cache
+C:\Users\Michael Permyashkin\source\repos\FBO-FTP-Data-Classifer\cinteotnlpinitiative\JSON-RFP-Classifier\obj\Debug\netcoreapp2.2\FBO-FTP-Data-Classifier.AssemblyInfo.cs
+C:\Users\Michael Permyashkin\source\repos\FBO-FTP-Data-Classifer\cinteotnlpinitiative\JSON-RFP-Classifier\obj\Debug\netcoreapp2.2\FBO-FTP-Data-Classifier.dll
+C:\Users\Michael Permyashkin\source\repos\FBO-FTP-Data-Classifer\cinteotnlpinitiative\JSON-RFP-Classifier\obj\Debug\netcoreapp2.2\FBO-FTP-Data-Classifier.pdb
+C:\Users\Michael Permyashkin\source\repos\FBO-FTP-Data-Classifer\cinteotnlpinitiative\JSON-RFP-Classifier\bin\Debug\netcoreapp2.2\Models\model.zip

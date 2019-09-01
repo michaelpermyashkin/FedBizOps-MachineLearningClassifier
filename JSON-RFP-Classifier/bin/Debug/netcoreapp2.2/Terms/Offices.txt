@@ -1,0 +1,427 @@
+ACC OO
+Agricultural Marketing Service
+Air Force Materiel Command
+Army Contracting Command
+Army Contracting Command, MICC
+Bronx VAMC (NAL)
+Bureau of Indian Affairs
+Bureau of Prisons
+Bureau of Reclamation
+Centers for Disease Control and Prevention
+Dayton VAMC
+Defense Logistics Agency Detachment
+DLA Acquisition Locations
+Federal Locations
+Fish and Wildlife Service
+Forest Service
+Nashville VAMC
+National Background Investigations Bureau
+National Oceanic and Atmospheric Administration (NOAA)
+National Park Service
+Naval Air Systems Command
+Naval Facilities Engineering Command
+Naval Sea Systems Command
+Naval Supply Systems Command
+Office of Acquisition Solutions (OAS)
+Office of Budget and Financial Management
+Office of Budget, Finance, Quality and Management
+Office of Surface Mining Reclamation and Enforcement
+Offices/Boards/Divisions
+Public Buildings Service (PBS)
+Reno VAMC
+Space and Naval Warfare Systems Command
+U.S. Army Corps of Engineers
+United States Coast Guard (USCG)
+United States Marine Corps
+VA Great Lakes Healthcare System
+VA Gulf Coast Veterans Health Care System
+VA Heartland Network
+VA National Consolidated Mail Outpatient
+VA Northern California Health Care System
+VBA Office of Acquisition
+Washington River Protection Solutions, LLC.
+AFICA
+Animal and Plant Health Inspection Service
+Brecksville (Cleveland) VAMC
+Commander in Chief, Atlantic Fleet
+Defense Commissary Agency
+Direct Reporting Unit - Air Force District of Washington
+Farm Production and Conservation Business Center
+Fayetteville (AR) VAMC
+Federal Acquisition Service (FAS)
+Federal Aviation Administration (FAA)
+Federal Bureau of Investigation
+Federal Prison Industries/UNICOR
+Honolulu VAMROC
+Houston VAMC
+Long Beach VANLO
+Martinsburg VAMC
+National Guard Bureau
+National Institutes of Health
+Network Contracting Office 4
+New Orleans VAMC
+OCPO, Office of Support Operations
+Office of Acquisitions
+Procurement Directorate
+U.S. Army Medical Command
+U.S. Army Medical Materiel Agency
+U.S. Army Medical Research Acquisition Activity
+U.S. Special Operations Command
+VA National Energy Business Center
+VA North Texas Health Care System
+VA Office of Information Service Center
+VA Southern Arizona Health Care System
+VA Technology Acquisition Center(Austin)
+Air Education and Training Command
+Air Mobility Command
+Bureau of Alcohol, Tobacco and Firearms (ATF)
+Bureau of Medicine and Surgery
+Clarksburg VAMC
+Committee for Purchase
+Drug Enforcement Administration
+Food and Drug Administration
+Headquarters
+Indian Health Service
+Indianapolis VAMC
+Lawrence Livermore National Laboratory (DOE Contractor)
+Missile Defense Agency
+NASA Shared Services Center
+National Institute of Standards and Technology (NIST)
+Office of the Sergeant at Arms
+Other Buying Organizations
+St. Lawrence Seaway Development Corporation (SLSDC)
+Syracuse VAMC
+VA National Cemetery Administration Centralized Contracting Division
+VA North Florida/South Georgia Health Care System
+Agricultural Research Service
+Air Combat Command
+Air Force Reserve Command
+Air Force Space Command
+Bureau of Engraving and Printing
+Citizenship & Immigration Services
+Customs and Border Protection
+Defense Media Activity
+FedBid
+Federal Railroad Administration (FRA)
+Maritime Administration (MARAD)
+Military Sealift Command
+Mine Safety and Health Administration
+Naval Education and Training Command
+Office of the Chief Financial Officer
+Office of the Chief Procurement Officer
+Pacific Air Forces
+SLAC National Accelerator Lab
+Southern Asian and Central Asian Posts
+Strategic Systems Programs
+Tampa VAMC
+U. S. Geological Survey
+US Air Force Europe
+VA Rocky Mountain Consolidated Contracting Center
+VA South Texas Health Care System
+VA Strategic Acquisition Center
+VA Technology Acquisition Center
+Western Hemisphere Posts
+Acquisition Division
+Bureau of International Narcotics and Law Enforcement Affairs
+Contracts Services
+Facilities Portfolio
+Federal Emergency Management Agency
+MCC
+Office of Naval Research
+Office of Procurement Operations
+Procurement
+Transportation Security Administration
+Air Force Global Strike Command
+AOC Acquisition & Material Management Division
+Armstrong Flight Research Center
+Contracts & Acquisitions Management
+Defense Advanced Research Projects Agency
+Employment Training Administration
+Goddard Space Flight Center
+Johnson Space Center
+Newport News Nuclear BWXT-Los Alamos, LLC (DOE Contractor)
+Office of the Secretary of Defense
+Overseas Missions
+VA Office of Construction & Facilities Management
+VA Office of Small and Disadvantaged Business Utilization
+263 Network Contracting Office 23 (NCO 23)
+Bureau of Land Management
+Charleston VAMC
+Office of Administrate Services (H)
+VA Ann Arbor Health Care System
+VA National Acquisition Center
+VA Strategic Acquisition Center (Frederick)
+VA Western New York Health Care System
+Washington Headquarters Services
+Defense Contract Management Agency
+Immigration & Customs Enforcement
+Interior Business Center
+Washington D.C.
+Defense Health Agency
+Office of the Secretary
+U. S. Census Bureau
+AMIC DET 2
+Columbus VAOPC
+European Posts
+Hampton VAMC
+National Transportation Safety Board
+Office of Chief Finanical Officer- Aquisition Division
+Pacific Northwest National Laboratory - Battelle (DOE Contractor)
+Seattle VAMC
+VA Central Alabama Health Care System (Montgomery)
+VA El Paso Health Care Center
+VA Palo Alto Health Care System
+VA Southern Nevada Healthcare System
+African Posts
+Bureau of Industry & Security
+Bureau of Ocean Energy Management
+Federal Highway Administration (FHWA)
+Savannah River Nuclear Solutions, LLC
+Ames Research Center
+Atlanta VAMC
+Department of Defense Education Activity
+Direct Reporting Units
+Food Safety and Inspection Service
+Mission Support and Test Services, LLC
+Office of the Managing Director
+Phoenix VAMC
+VA Amarillo Health Care System
+VA Maryland Health Care System
+Marshall Space Flight Center
+National Geospatial-Intelligence Agency
+Office of Small Business Utilization
+Patent and Trademark Office (PTO)
+Portland VAMC
+Uniformed Services University of the Health Sciences
+United States Secret Service
+Virginia Contracting Activity
+Acquisition Services
+258G - NCO 22 - MESA OFFICE
+Albany VAMC
+Defense Finance and Accounting Service
+Defense Threat Reduction Agency
+East Asian & Pacific Posts
+Jackson VAMC
+Office Of Acquisitions And Contract Management
+Office of the Assistant Secretary for Administration and Management
+Office of the Comptroller of the Currency
+Program Support Center
+Shreveport VAMC
+Tuscaloosa VAMC
+US Air Forces Central Command/A7K
+VA Bay Pines Health Care System
+Battle Creek VAMC
+Non-Appropriated Funds
+Office of the Chief Administrative Officer
+Defense Human Resources Activity
+Glenn Research Center
+Office of Procurement and Property Management
+Office of the Secretary of Tranportation (OST) Procurement Operations
+Fresno VAMC
+Top Level
+Acquisition Management Division
+Air Force Special Operations Command
+Augusta VAMC
+Bureau of Fiscal Service
+Chief Management Officer
+Customer Services Department
+OCPO, Northern (Philadelphia) Field Contracting Operations
+Orlando VAMC
+VA West Texas Health Care System
+Bureau of Safety and Environmental Enforcement
+Federal Law Enforcement Training Center (FLETC)
+Spokane VAMC
+United States Marshals Service
+US Army Corps of Engineers
+US Army Medical Command
+Fermi National Accelerator Laboratory
+Navarro Research and Engineering Inc.
+US Army Medical Research Acquisition Activity
+Centers for Medicare & Medicaid Services
+OCPO, Office of Policy and Systems
+USCYBERCOM
+Director, Office of Contracts
+Dublin VAMC
+Procurement and Materiels
+VA Service Area Organization East
+Office of Justice Programs
+Comptroller of the Currency (OCC)
+Sandia Corp. (DOE Contractor)
+Office of Facilities Management
+VA Boston Healthcare System
+Consumer Financial Protection Bureau
+Bath VAMC
+Board of Governors
+Defense Security Service
+Internal Revenue Service (IRS)
+Manchester VAMC
+Northampton VAMC
+United States Transportation Command
+VA Connecticut Health Care System
+White River Junction VAMROC
+Fayetteville (NC) VAMC
+VA Central Arkansas Health Care System
+Alexandria VAMC
+Canandaigua VAMC
+Cincinnati VAMC
+Fort Worth Operations Branch
+National Telecommunications & Information Administration
+Assist for Admin Office of the Under Secretary of the Navy
+Division of Procurement Services
+Rural Development
+IMCOM HQ
+Bedford VAMC
+Brookhaven National Laboratory (DOE Contractor)
+Near Eastern Posts
+USTDA
+VA Miami Health Care System
+West Palm Beach VAMC
+Bureau of Labor Statistics
+Office of Small and Disadvantaged Business Utilization
+Office of the Chief Financial Officer (CFO)
+Federal Student Aid
+Columbia (SC) VAMC
+Langley Research Center
+OFFICE OF THE INSPECTOR GENERAL
+PEO EIS
+VA Caribbean Health Care System
+Contracts and Administrative Services
+San Francisco VAMC
+Administrative Office of the U.S. Courts
+Kennedy Space Center
+United States Africa Command
+Office of Financial Service
+Defense Security Cooperation Agency
+Federal Motor Carrier Safety Administration (FMCSA)
+Los Alamos National Laboratory (DOE Contractor)
+NAA
+Pipeline and Hazardous Materials Safety Administration
+Providence VAMC
+Ralph J. Bunche Library
+Salem VAMC
+Thomas Jefferson National Accelerator Facility
+US Probation Office VA
+Commander in Chief, US Naval Forces Europe
+CONTRACTING
+Food and Nutrition Service
+Oak Ridge National Laboratory - UT Battelle LLC (DOE Contractor)
+Substance Abuse and Mental Health Services Administration
+VA Corporate Franchise Data Center
+VA Northern Arizona Health Care System
+Office of Financial Management-Procurement
+Division of Administration
+VA Denver Acquisition & Logistics Center
+NATO, HQ Supreme Allied Commander Transformation
+Naval Support Activity Mid South
+Division of Acquisition and Cooperative Support
+Office of the Director
+VA Roseburg Healthcare System
+Argonne National Laboratory (DOE Contractor)
+Defense Microelectronics Activity
+Agency for Healthcare Research and Quality
+Health Resources and Services Administration
+VA Central Texas Health Care System
+Detroit VAMC
+Stennis Space Center
+VA Capitol Health Care Network
+Acquisition Sourcing Management
+Foreign Service Institute
+USTDA Office of Acquisition Management
+Togus VAMROC
+Mail & Operational Equipment Portfolio
+Headquarters, Department of the Army
+Office of Contracting Services
+National Reconnaissance Office
+Salisbury VAMC
+DHS Office of the Inspector General
+Intelligence Advanced Research Projects Activity
+VA Tennessee Valley Health Care System (Murfreesboro)
+Idaho National Laboratory (DOE Contractor)
+Alliance for Sustainable Energy, LLC (DOE Contractor)
+Birmingham VAMC
+Office of the Secretary (OST) Administration Secretariate
+Huntington VAMC
+Federal Energy Regulatory Commission
+OCPO, Western (Denver) Field Contracting Operations
+Office of Inspector General
+US Sentencing Commission
+National Assessment Governing Board
+DC Circuit Court of Appeals
+Farm Service Agency
+Office of Air and Radiation (OAR)
+US Army Acquisition Support Center
+Lawrence Berkeley National Laboratory (DOE Contractor)
+NASA Management Office-JPL
+National Highway Traffic Safety Administration (NHTSA)
+Princeton Plasma Physics Laboratory (DOE Contractor)
+Atlanta Field Operations
+Office of Small Business Programs
+U.S. Probation Office Central Dist CA
+249 - VISN 9 ACQUISITION SERVICE CENTER
+Acquisition Management Division, OA
+Naval War College
+Transportation Portfolio
+VA Northern Indiana Health Care System (Marion Campus)
+Durham VAMC
+Financial Management Office
+VA Capitol Network Acquisition Center
+Federal Transit Administration (FTA)
+US District Court,Sioux Falls SD
+Headquarter
+European Logistics Support Office
+Pretrial Services Agency
+Boise VAMC
+Naval Information Warfare Systems Command
+United States Mint (USM)
+Congressional Budget Office
+Office of Procurement
+Strategic Petroleum Reserve Project
+Defense Intelligence Agency
+Technology Transformation Service (TTS)
+U.S. Section
+Bureau of Economic Analysis
+District of Columbia Courts
+Beckley VAMC
+CH2M Hill Plateau Remediation Company
+U.S. District Court Texas Western
+VA Center for Acquisition Innovation (Washington)
+CENTCOM - Joint Theater Support Contracting Command
+Federal Investigative Services, Acquisition Support Team
+FedTeDS Help Desk Organization
+Office of the CFO
+US Army Materiel Command
+zinactive - Departmental Offices/Procurement Services Division (DO/PSD)
+zinactive - Office of Thrift Supervision (OTS)
+U.S. Probation Office Wisconsin
+U.S. District Court, NM
+Space Development Agency (SDA)
+U.S. District Court, New Jersey
+Grants & Contracts Office
+U.S. Probation Office
+Mail and Operational Equipment Portfolio
+OCPO, FHA, Single Family
+National Security Technologies LLC (DOE Contractor)
+Regional Administrative Offices
+Office Of Inspector General
+Ames Laboratory
+U.S. Court of Appeals Tenth Circuit
+U.S. Bankruptcy Court Southern AL
+VA New Mexico Health Care System
+Office of Finance
+Defense Counterintelligence and Security Agency
+Richmond VAMC
+SAF/AQCS
+Facilities Management
+U.S. District Court, Northern Ohio
+U.S. Bankruptcy Court, Northern Alabama
+U.S. Probation Office Northern GA
+Office of Language Services
+Healthcare and Insurance
+U.S. District Court Western District Seattle WA
+Asheville VAMC
+U.S. Probation Office, Baltimore, MD
+Office of River Protection
+US Probation Office HI
+Chief of Naval Installations
+AFICC
+US Army Security Assistance Command
