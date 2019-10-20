@@ -4,7 +4,9 @@ A project that implements multi-class classification using ML.NET technology.
 ## Purpose
 I was tasked with creating a model using ML.NET that could train on data provided by https://www.fbo.gov. I soon discovered an ftp endpoint which contained daily and weekly dumps of listings for the given day or week, respectively. That site is located here: ftp://ftp.fbo.gov/. 
 
-This project is part of the final product (since the entirety of the solution is technically proprietary information for my company). I found that a straight forward solution was tough to find, so this will hopefully help you with a similar task.
+This project is part of the final solution - at the time I wrote this, true RFP data was not yet available for the model to consume. As an update, I completed an FBOSpider(available on my github also) which has successfully gotten copious amounts of data which can now be used to train the model on RFP document classification. I am unsure yet how I can feed the various file formats such as PDF and DOCX into the model and have it read the documents. So I suppose the next step is to modify this project to include logic which solves this problem. 
+
+I found that a straight forward solution was tough to find, so this will hopefully help you with a similar task.
 
 ## Project Contents
 In this repository you will find 2 things:
